@@ -96,7 +96,7 @@ export default function SaudeSyncPage({ onBack }: SaudeSyncPageProps) {
 *Empresa:* ${demoCompany}
 *Telefone:* ${demoPhone}
 *E-mail:* ${demoEmail}`;
-      window.open(`https://wa.me/551130039000?text=${encodeURIComponent(message)}`, '_blank');
+      window.open(`https://wa.me/5511944084097?text=${encodeURIComponent(message)}`, '_blank');
       // Reset form
       setDemoName('');
       setDemoPhone('');

@@ -479,7 +479,7 @@ export default function QuoteSimulator({
 *Dados da Simulação:* ${details}
 *Valor Simulado:* ${formatCurrency(results.annualPremium)}/ano (${formatCurrency(results.monthlyPremium)}/mês)`;
 
-    return `https://wa.me/551130039000?text=${encodeURIComponent(message)}`;
+    return `https://wa.me/5511944084097?text=${encodeURIComponent(message)}`;
   };
 
   const resetForm = () => {

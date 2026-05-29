@@ -1,5 +1,5 @@
 export default function FloatingWhatsapp() {
-  const whatsappUrl = "https://wa.me/551130039000?text=Ol%C3%A1,%20gostaria%20de%20fazer%20uma%20consulta%20sobre%20seguros.";
+  const whatsappUrl = "https://wa.me/5511944084097?text=Ol%C3%A1,%20gostaria%20de%20fazer%20uma%20consulta%20sobre%20seguros.";
 
   return (
     <a
